@@ -1,0 +1,10 @@
+**/bin
+**/obj
+*.db
+*.sqlite
+**/*.csproj.user
+**/.vs
+**/.vscode
+**/.idea
+**/.DS_Store
+**/__pycache__

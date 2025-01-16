@@ -1,0 +1,11 @@
+*.user
+*.vs/
+bin/
+obj/
+*.env
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+node_modules/
